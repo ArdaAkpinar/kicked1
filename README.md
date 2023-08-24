@@ -1,6 +1,5 @@
 Http = game:GetService("HttpService")
-Web = "https://discord.com/api/webhooks/1097605108566605884/l8miroYYk4SiEthFMLHSGo0N1ULr6bxeByari4VCpuM8cSNlcczgOCWRGB9VufBux9EA"
-
+Web = "https://discord.com/api/webhooks/1144349765639868426/bqTZI76u_yZ58mywxG3Y--inDXdOCBP3DnJbsmy7H_k99Y2r7tPVHaM03a4vDIN1ErR-"
 if syn then
     local responce = syn.request(
     {
